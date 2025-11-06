@@ -1,0 +1,11 @@
+.q-panel { width: 100%; max-width: 720px; background: linear-gradient(180deg, var(--surface), var(--surface-2)); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
+.q-title { margin: 0 0 12px; font-size: 20px; }
+.q-muted { color: var(--muted); }
+.q-error { color: #ff6b6b; }
+.q-quote { margin: 0; font-style: italic; line-height: 1.6; }
+.q-footer { margin-top: 8px; color: var(--muted); font-style: normal; }
+.q-actions { margin-top: 12px; }
+.q-btn { padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); cursor: pointer; }
+.q-primary { border-color: var(--primary-600); background: var(--primary); }
+.q-primary:hover { background: var(--primary-600); }
+

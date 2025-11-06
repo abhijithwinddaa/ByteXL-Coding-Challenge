@@ -1,0 +1,11 @@
+.cc-panel { width: 100%; max-width: 720px; background: linear-gradient(180deg, var(--surface), var(--surface-2)); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
+.cc-title { margin: 0 0 12px; font-size: 20px; }
+.cc-form { display: flex; gap: 10px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+.cc-input { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); }
+.cc-btn { padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); cursor: pointer; }
+.cc-primary { border-color: var(--primary-600); background: var(--primary); }
+.cc-primary:hover { background: var(--primary-600); }
+.cc-row { margin: 8px 0; }
+.cc-muted { color: var(--muted); }
+.cc-error { color: #ff6b6b; }
+
