@@ -37,7 +37,7 @@ export default function CurrencyConverter() {
 
 	return (
 		<div className="cc-panel">
-			<h2 className="cc-title">Currency Converter</h2>
+			<h2 className="cc-title">Money Converter</h2>
 			<div className="cc-form">
 				<label htmlFor="amt"><strong>Amount</strong></label>
 				<input
